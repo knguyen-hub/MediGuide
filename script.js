@@ -25,7 +25,7 @@ async function getImage() {
 		"https://api-inference.huggingface.co/models/Shakker-Labs/FLUX.1-dev-LoRA-One-Click-Creative-Template",
 		{
 			headers: {
-				Authorization: "Bearer INSERT_API_KEY_HERE",
+				Authorization: "Bearer YOUR_API_KEY_HERE",
 				"Content-Type": "application/json",
 			},
 			method: "POST",
