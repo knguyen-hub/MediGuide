@@ -1,6 +1,6 @@
 ## MediGuide
 
-## Overvier
+## Overview
 
 The idea for MediGuide came from seeing how difficult it can be, especially for older adults, to manage their medications. Many people struggle to remember when and how much to take, and the doctor’s instructions can be confusing. This often leads to missed doses or mistakes that can affect their health. We wanted to create something simple and stress-free to follow a medication plan so people can take the right medication at the right time without worry or confusion.
 
